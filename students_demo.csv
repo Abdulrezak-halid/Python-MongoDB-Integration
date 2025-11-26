@@ -1,0 +1,6 @@
+name,student_id,age,dept,gpa,enrolled_date,_id
+Ahmet Yılmaz,STU001,22,CS,3.95,2025-11-26,1
+Fatima Ahmed,STU002,20,ENG,3.6,,2
+Hassan Ali,STU003,22,CS,4.0,,3
+Aisha Mohamed,STU004,21,MATH,3.7,,4
+Omar Ibrahim,STU005,20,CS,3.6,,5
