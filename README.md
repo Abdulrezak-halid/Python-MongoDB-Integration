@@ -20,24 +20,6 @@ The assignment covers the following topics:
 
 ---
 
-## Project Structure
-
-```
-Python-MongoDB-Integration/
-│
-├── Python-MongoDB-Integration/
-│   ├── crud_examples.py           # Complete CRUD implementation with MongoDB
-│   ├── crud_demo.py                # Demo version (no MongoDB server required)
-│   └── generate_homework_doc.py    # Word document generator
-│
-├── MongoDB_Homework_STU001.docx    # Generated homework submission document
-├── students_demo.csv               # Sample exported data
-├── README.md                       # This file
-└── requirements.txt                # Python dependencies
-```
-
----
-
 ## Installation & Setup
 
 ### Prerequisites
@@ -368,17 +350,4 @@ After completing this assignment, you should be able to:
 - [Pandas Documentation](https://pandas.pydata.org/docs/)
 - [Python-docx Documentation](https://python-docx.readthedocs.io/)
 
----
-
-## Notes
-
-- All scripts use Python 3.8+ syntax
-- MongoDB collections are JSON-like documents
-- Ensure virtual environment is activated before running
-- For production use, implement proper error handling and validation
-- Use `crud_demo.py` for learning without MongoDB dependency
-
----
-
-**Assignment Status:** Complete ✅
 
